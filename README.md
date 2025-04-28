@@ -29,7 +29,7 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 ```
 Developed by : YOKESH I
 
-Register no : 212224130313
+Register no : 212224230313
 ```
 import cv2
 import numpy as np
